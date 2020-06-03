@@ -1,1 +1,3 @@
 # Flare
+
+QuickFire Flare Doc
